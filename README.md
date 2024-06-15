@@ -4,8 +4,16 @@
     Hello! I'm Axel, a passionate enthusiast of programming and data security. Currently pursuing a degree in Web and App Development at Instituto Politécnico Córdoba. At 26 years old, I've been self-studying technology for several months, deeply immersing myself in the field. Recently, I've developed a strong interest in cybersecurity and continue to expand my knowledge independently. I'm enthusiastic about learning and staying updated with the latest trends, with a strong desire to assist individuals and businesses in ensuring information protection and privacy.
 </div>
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Educating Myself
 
+<ul>
+    <li aling="center">🔒 Self-taught in Ethical Hacking.</li>
+    <li>💻 Experience in Web, App Development and Python</li>
+    <li>🌱 Always learning and exploring new technologies.</li>
+    <li> 🎓 Soon-to-be graduated from ("Tec.Web and App Development-Instituto Politécnico Cordobá ISPC").</li>
+</ul>
+
+## Tech Stack
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,8 +32,6 @@
   </a>
  
 </p>
-
-
 
 <div align="center">
 
