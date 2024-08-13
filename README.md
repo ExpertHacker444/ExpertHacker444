@@ -1,4 +1,5 @@
-## Hi, I’m Axel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+# Hi, I’m Axel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<img align="right" height="150" src="https://u-static.fotor.com/images/text-to-image/result/PRO-898788d5360f4e10ac01734f8dd71c16.jpg"  />
 
 <div>
     Hello! I'm Axel, a passionate enthusiast of programming and data security. Currently pursuing a degree in Web and App Development at Instituto Politécnico Córdoba. At 26 years old, I've been self-studying technology for several months, deeply immersing myself in the field. Recently, I've developed a strong interest in cybersecurity and continue to expand my knowledge independently. I'm enthusiastic about learning and staying updated with the latest trends, with a strong desire to assist individuals and businesses in ensuring information protection and privacy.
@@ -15,11 +16,6 @@
 
 ## Tech Stack
 <p align="center">
-
-  <br clear="both">
-  <br clear="both">
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -49,13 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://u-static.fotor.com/images/text-to-image/result/PRO-898788d5360f4e10ac01734f8dd71c16.jpg"  />
-
-###
-  
-
+<br>
 
  <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
